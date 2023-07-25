@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "969055679168",
+    "project_id": "jitsi-trial-2995e",
+    "storage_bucket": "jitsi-trial-2995e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969055679168:android:3fe6402798858d4fabf325",
+        "android_client_info": {
+          "package_name": "com.example.jitsi_trial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969055679168-n1emln7meq295a4qeakcvh6g2jaor2e1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeDFfx2uy0DZ1nDD9hQFNJTbWkTnEnCHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969055679168-n1emln7meq295a4qeakcvh6g2jaor2e1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
